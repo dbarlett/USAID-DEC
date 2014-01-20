@@ -2,7 +2,7 @@ Metadata extracted from the [United States Agency for International Development]
 
 Created in response to a [challenge](https://github.com/pdfliberation/pdf-hackathon/blob/master/challenges/usaid-challenge.md) from USAID as part of the [2014 PDF Liberation Hackathon](http://pdfliberation.wordpress.com/2013/11/15/hackathon/) in Washington, DC.
 
-Status as of 2014-01-19:
+Status as of 2014-01-20:
 
 | Publication Year | DEC Documents | Metadata Extracted |
 |------------------|---------------|--------------------|
@@ -30,10 +30,10 @@ Status as of 2014-01-19:
 | 1968             | 847           | 847                |
 | 1969             | 1,359         | 1,359              |
 | 1970             | 1,551         | 1,551              |
-| 1971             | 1,671         | 1,672              |
-| 1972             | 1,846         | 1,876              |
-| 1973             | 1,843         | 0                  |
-| 1974             | 1,960         | 0                  |
+| 1971             | 1,671         | 1,671              |
+| 1972             | 1,846         | 1,846              |
+| 1973             | 1,843         | 1,843              |
+| 1974             | 1,960         | 1,960              |
 | 1975             | 2,189         | 0                  |
 | 1976             | 2,130         | 0                  |
 | 1977             | 2,122         | 0                  |
