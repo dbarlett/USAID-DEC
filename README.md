@@ -1,6 +1,6 @@
 Metadata extracted from the [United States Agency for International Development](http://www.usaid.gov/) (USAID) [Development Experience Clearinghouse](https://dec.usaid.gov) (DEC).
 
-Created in response to a [challenge](https://github.com/pdfliberation/pdf-hackathon/blob/master/challenges/usaid-challenge.md) from USAID as part of the [2014 Liberation Hackathon](http://pdfliberation.wordpress.com/2013/11/15/hackathon/) in Washington, DC.
+Created in response to a [challenge](https://github.com/pdfliberation/pdf-hackathon/blob/master/challenges/usaid-challenge.md) from USAID as part of the [2014 PDF Liberation Hackathon](http://pdfliberation.wordpress.com/2013/11/15/hackathon/) in Washington, DC.
 
 Status as of 2014-01-19:
 
@@ -29,9 +29,9 @@ Status as of 2014-01-19:
 | 1967             | 644           | 644                |
 | 1968             | 847           | 847                |
 | 1969             | 1,359         | 1,359              |
-| 1970             | 1,551         | 0                  |
-| 1971             | 1,671         | 0                  |
-| 1972             | 1,846         | 0                  |
+| 1970             | 1,551         | 1,551              |
+| 1971             | 1,671         | 1,672              |
+| 1972             | 1,846         | 1,876              |
 | 1973             | 1,843         | 0                  |
 | 1974             | 1,960         | 0                  |
 | 1975             | 2,189         | 0                  |
